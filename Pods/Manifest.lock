@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.8.2)
+  - Kingfisher (5.3.1)
+  - Stripe (15.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Kingfisher
+  - Stripe
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Kingfisher
+    - Stripe
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  Kingfisher: d9e7e0b209b59b8f9873aa2f37654e81a7beea51
+  Stripe: 312b22a67af9fa55c246d26148b3f3a9636a0ff2
+
+PODFILE CHECKSUM: 0be190e56b6055ff1f4af5b2c98676be35f38d4e
+
+COCOAPODS: 1.5.3
